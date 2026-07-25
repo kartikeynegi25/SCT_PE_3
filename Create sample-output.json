@@ -1,0 +1,19 @@
+{
+  "meeting_summary": "Project planning meeting.",
+  "action_items": [
+    "Finish UI",
+    "Deploy Backend"
+  ],
+  "deadlines": [
+    "Friday",
+    "Monday"
+  ],
+  "owners": [
+    "Rahul",
+    "Priya"
+  ],
+  "risks": [
+    "Deployment Delay"
+  ],
+  "priority": "High"
+}
